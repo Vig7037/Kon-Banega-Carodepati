@@ -36,4 +36,4 @@ Contributing
 If you'd like to contribute to this project or add more questions to the quiz, please fork the repository and create a pull request with your changes.
 
 ## Acknowledgement
-This project is developed by <a herf="https://github.com/Vig7037"> Vighnesh Singhal </a>
+The project was developed by <a href="https://github.com/Vig7037">Vighnesh Singhal</a>.
